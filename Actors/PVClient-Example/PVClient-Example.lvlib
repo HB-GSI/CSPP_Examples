@@ -50,7 +50,8 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Serialized ACL" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
-		<Item Name="PVUpdate-myDouble Msg.lvclass" Type="LVClass" URL="../../PVClient-Example Messages/PVUpdate-myDouble Msg.lvclass"/>
+		<Item Name="AEUpdate Msg.lvclass" Type="LVClass" URL="../../PVClient-Example Messages/AEUpdate Msg/AEUpdate Msg.lvclass"/>
+		<Item Name="PVUpdate-myDouble Msg.lvclass" Type="LVClass" URL="../../PVClient-Example Messages/PVUpdate-myDouble Msg/PVUpdate-myDouble Msg.lvclass"/>
 	</Item>
 	<Item Name="PVClient-Example.ini" Type="Document" URL="../PVClient-Example.ini"/>
 	<Item Name="PVClient-Example.lvclass" Type="LVClass" URL="../PVClient-Example.lvclass"/>
